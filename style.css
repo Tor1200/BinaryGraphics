@@ -1,0 +1,23 @@
+html {
+    background-color: black;
+}
+
+.binary {
+    color: lime;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    cursor: default;
+}
+
+main {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-size: 500%;
+    text-shadow: 0 0 10px lime;
+}
